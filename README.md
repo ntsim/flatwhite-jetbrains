@@ -1,8 +1,9 @@
 # Flatwhite Theme Jetbrains
 
-This is a port of the lovely [Flatwhite](https://github.com/biletskyy/flatwhite-syntax) syntax theme
-for Jetbrains products e.g. IntelliJ, PhpStorm, etc. Big thanks to [Dmitry Biletskyy](https://github.com/biletskyy)
-for his efforts in coming up with this clean colour palette!
+This is a port of the lovely [Flatwhite](https://github.com/biletskyy/flatwhite-syntax) syntax theme.
+It is targetted at the Jetbrains products e.g. IntelliJ, PhpStorm, etc.
+
+Big thanks to [Dmitry Biletskyy](https://github.com/biletskyy) for his efforts in coming up with this clean colour palette!
 
 ## Installation
 
