@@ -3,7 +3,7 @@
     <property name="created">2017-02-11T05:30:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-02-18T18:36:12</property>
+    <property name="modified">2017-02-18T23:29:06</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -24,6 +24,7 @@
     <option name="TEARLINE_COLOR" value="dcd3c6" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.INTERNAL_COMMAND">
@@ -168,8 +169,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="4c5361" />
-        <option name="BACKGROUND" value="dde4f2" />
+        <option name="FOREGROUND" value="605a52" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -189,6 +189,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="5b5143" />
+        <option name="BACKGROUND" value="f7e0c3" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="465953" />
@@ -197,13 +203,14 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="4c5361" />
-        <option name="BACKGROUND" value="dde4f2" />
+        <option name="FOREGROUND" value="605a52" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
+        <option name="FOREGROUND" value="525643" />
         <option name="BACKGROUND" value="e2e9c1" />
       </value>
     </option>
@@ -248,12 +255,21 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="605a52" />
         <option name="BACKGROUND" value="f7f3ee" />
+      </value>
+    </option>
+    <option name="MARKDOWN_AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="596dc0" />
+        <option name="BACKGROUND" value="dde4f2" />
+        <option name="EFFECT_COLOR" value="596dc0" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_BOLD_MARKER">
@@ -315,6 +331,18 @@
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
       <value />
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_TEXT">
+      <value>
+        <option name="FOREGROUND" value="596dc0" />
+        <option name="BACKGROUND" value="dde4f2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
