@@ -7,7 +7,7 @@ Big thanks to [Dmitry Biletskyy](https://github.com/biletskyy) for his efforts i
 
 ## Installation
 
-Copy `Flatwhite.icls` into your Jetbrains product's `config/colours` directory. Usually this is in
+Copy `Flatwhite.icls` into your Jetbrains product's `config/colors` directory. Usually this is in
 your home directory.
 
 ## Notes
